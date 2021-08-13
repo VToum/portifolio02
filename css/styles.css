@@ -244,7 +244,7 @@ img{
 }
 
 .home__blob-img{
-    width: 370px;
+    width: 380px;
 }
 
 .home__data{
@@ -290,7 +290,7 @@ img{
     margin-right: var(--mb-0-25);
 }
 
-.homes__scroll-arrow{
+.home__scroll-arrow{
     font-size: 1.25rem;
 
 }
@@ -323,7 +323,7 @@ img{
 
 /* ======================= SOBRE ================================ */
 .sobre__img{
-    width: 300px;
+    width: 350px;
     border-radius: .5rem;
     justify-self: center;
     align-items: center;
