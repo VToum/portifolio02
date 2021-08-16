@@ -474,7 +474,7 @@ img{
 .qualification__tabs{
     display: flex;
     justify-content: space-evenly;
-    margin-bottom:  var(--mb-2-5);
+    margin-bottom: var(--mb-2-5);
 }
 .qualification__button{
     font-size: var(--h3-font-size);
@@ -485,7 +485,7 @@ img{
     color: var(--first-color);
 }
 .qualification__icon{
-    font-size: 1.8rem;
+    font-size: 2.5rem;
     margin-right: var(--mb-0-25);
 }
 .qualification__data{
@@ -508,6 +508,7 @@ img{
 .qualification__calendar{
     font-size: var(--smaller-font-size);
     color: var(--text-color-light)
+    
 }
 .qualification__rounder{
     display:inline-block;
