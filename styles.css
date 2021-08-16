@@ -323,7 +323,7 @@ img{
 
 /* ======================= SOBRE ================================ */
 .sobre__img{
-    width: 300px;
+    width: 200px;
     border-radius: .8rem;
     justify-self: center;
     align-items: center;
@@ -495,13 +495,13 @@ img{
 }
 
 .qualification__title{
-    font-size:var(--normal-font-size);
+    font-size:var(--mb-0-75);
     font-weight: var(--font-medium);
 }
 
 .qualification__subtitle{
     display:inline-block;
-    font-size: var(--small-font-size);
+    font-size: var(--mb-0-75);
     margin-bottom: var(--mb-1-5);
 
 }
@@ -520,8 +520,8 @@ img{
     display: block;
     width: 1px;
     height: 100%;
-    background-color: var(--first-color);
-    transform:  translate( 6px, -7px);
+    background-color:var(--first-color);
+    transform: translate(6px, -7px);
 }
 
 .qualification [data-content]{
