@@ -323,8 +323,8 @@ img{
 
 /* ======================= SOBRE ================================ */
 .sobre__img{
-    width: 350px;
-    border-radius: .5rem;
+    width: 300px;
+    border-radius: .8rem;
     justify-self: center;
     align-items: center;
 }
